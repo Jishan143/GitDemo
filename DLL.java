@@ -29,7 +29,7 @@ void insertlast(int val){
     }
     
 
-if(tail!=null)
+if(tail!=0)
 {
      tail.next=node;
 }
